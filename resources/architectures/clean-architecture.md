@@ -1,3 +1,3 @@
 # Samples
 
-jasontaylordev [Template](https://github.com/jasontaylordev/CleanArchitecture).
+Clean Architecture. simply install the .NET [template](https://github.com/jasontaylordev/CleanArchitecture).
