@@ -10,6 +10,7 @@
 
 - [C#](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/languages/c-sharp.md)
 - [Clean Architecture](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/architectures/clean-architecture.md)
+- [Cross Cutting Concerns](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/cross-cutting-concerns/cross-cutting-concerns.md)
 - [Design Patterns](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/design-patterns/design-patterns.md)
 - [gRPC](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/communication-protocol/gRPC.md)
 
