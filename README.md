@@ -9,7 +9,7 @@
 ## Contents
 
 - [C#](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/languages/c-sharp.md)
-- [Architectures](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/architectures/clean-architecture.md)
+- [Architectures](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/architectures/architectures.md)
 - [Cross Cutting Concerns](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/cross-cutting-concerns/cross-cutting-concerns.md)
 - [Dependency Injection](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/cross-cutting-concerns/cross-cutting-concerns.md)
 - [Design Patterns](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/design-patterns/design-patterns.md)
