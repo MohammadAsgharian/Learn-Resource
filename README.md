@@ -8,12 +8,13 @@
 
 ## Contents
 
-- [C#](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/languages/c-sharp.md)
+- [Application Programming Interfaces](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/application-Programming-Interfaces/application-Programming-Interfaces.md)
 - [Architectures](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/architectures/architectures.md)
+- [C#](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/languages/c-sharp.md)
 - [Cross Cutting Concerns](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/cross-cutting-concerns/cross-cutting-concerns.md)
 - [Dependency Injection](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/cross-cutting-concerns/cross-cutting-concerns.md)
 - [Design Patterns](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/design-patterns/design-patterns.md)
 - [gRPC](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/communication-protocol/gRPC.md)
-- [principles](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/principles/principles.md)
+- [Principles](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/principles/principles.md)
 
 Happy learning!:wave:
