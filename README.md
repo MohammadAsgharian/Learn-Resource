@@ -15,6 +15,7 @@
 - [Dependency Injection](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/cross-cutting-concerns/cross-cutting-concerns.md)
 - [Design Patterns](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/design-patterns/design-patterns.md)
 - [gRPC](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/communication-protocol/gRPC.md)
+- [Micro Front](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/front-end/micro-front.md)
 - [Principles](https://github.com/MohammadAsgharian/Learn-Resource/blob/main/resources/principles/principles.md)
 
 Happy learning!:wave:
